@@ -258,7 +258,6 @@ address a:focus {
   line-height: 2;
   letter-spacing: 0.06em;
   color: #212121;
-  padding-top: ;
   padding-left: 24px;
 }
 .category-section li em {
@@ -267,6 +266,5 @@ address a:focus {
   font-size: 16px;
   line-height: 1.8;
   letter-spacing: 0.03em;
-  color: var();
   padding-left: 24px;
 }
